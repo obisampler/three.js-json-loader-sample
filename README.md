@@ -14,7 +14,7 @@ Please visit [openshift] for a working demo
 
 ### Tech
 
-three.js-json-loader-sample uses a number of open source projects to work properly:
+three.js json loader sample uses a number of open source projects to work properly:
 
 * [THREE.js] - webgl javascript framework
 * [DAT.gui] - javascript canvas framework
@@ -29,6 +29,7 @@ three.js-json-loader-sample uses a number of open source projects to work proper
 * [Mad Dogs Tutorials] Youtube lessons and corrections by Youtube user MrFreeman555
 
 *  Building 3d model by user yups12 at [tf3d.com]
+
 ----
 
 
