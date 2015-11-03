@@ -26,9 +26,9 @@ three.js-json-loader-sample uses a number of open source projects to work proper
  
 ### Credits
 
-* [Mad Dogs Tutorials] Youtube lessons and corrections by Youtube user MrFreeman555
+- [Mad Dogs Tutorials] Youtube lessons and corrections by Youtube user MrFreeman555
 
-* building 3d model by user yups12 at tf3d.com
+- building 3d model by user yups12 at tf3d.com
 ----
 
 
